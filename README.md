@@ -29,6 +29,8 @@
 | Анализ данных | Pandas, NumPy, Matplotlib, Seaborn |
 | Инфраструктура | Git, GitHub, Docker, основы CI/CD |
 | API и деплой | FastAPI, Streamlit, Flask |
+| Frontend | HTML, CSS, Telegram WebApp API |
+| Backend | Node.js, Express.js, MongoDB с Mongoose, Axios |
 | Soft Skills | Самоорганизация, асинхронная коммуникация, работа в команде, технический английский (B1) |
 
 ---
