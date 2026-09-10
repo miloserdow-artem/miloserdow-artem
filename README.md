@@ -1,16 +1,88 @@
-## Hi there 👋
 
-<!--
-**miloserdow-artem/miloserdow-artem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Привет, я Артём Милосердов 👋
 
-Here are some ideas to get you started:
+**ML / Data Science Junior — удалённая работа**  
+Тамбов, Россия | +7 953 720-66-17 | miloserdow.artem@gmail.com  
+GitHub: [miloserdow-artem](https://github.com/miloserdow-artem) | Telegram: [@miloserdow_artem](https://t.me/miloserdow_artem)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## О себе
+
+Меня зовут Артём, мне 22 года, я студент 2 курса Московского технологического института, факультет Технологий искусственного интеллекта.  
+
+В 15 лет начал изучать frontend, в 19 — переключился на ML. Имею практический опыт работы с Python, PyTorch, Scikit‑learn.  
+
+Сейчас ищу удалённую позицию Junior ML Engineer или стажировку в команде, работающей с машинным обучением и нейросетями. Готов к асинхронной работе, быстро осваиваю новые инструменты.
+
+---
+
+## Навыки
+
+### Языки программирования
+- JavaScript
+- Python
+- SQL
+
+### ML / DL
+- Scikit‑learn
+- PyTorch
+- TensorFlow / Keras
+- Hugging Face Transformers
+- Основы CNN и RNN
+
+### Анализ данных
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
+
+### Инфраструктура
+- Git
+- GitHub
+- Docker
+- Основы CI/CD
+
+### API и деплой
+- FastAPI
+- Streamlit
+- Flask
+
+### Soft Skills
+- Самоорганизация
+- Асинхронная коммуникация
+- Работа в команде
+- Технический английский (B1)
+
+---
+
+## Опыт
+
+### Личный проект: Telegram Clicker Game Mini App
+
+Разработал полноценную игру‑кликер для Telegram Mini App (ноябрь 2025). Проект создавался в рамках продвижения собственного Telegram‑канала.
+
+**Результаты и достижения:**
+- Организован месячный ивент: топ‑3 участника по таблице лидеров получили подписку Telegram Premium.
+- Благодаря реферальной системе аудитория канала выросла на 200 подписчиков.
+- В ходе работы существенно расширил компетенции во frontend‑разработке и JavaScript, освоил работу с базами данных и API.
+
+---
+
+## Образование
+
+**Московский технологический институт (МТИ)**  
+Бакалавриат, «Технологии искусственного интеллекта» (2025–2029, настоящее время)  
+
+**Профильные предметы:** машинное обучение, нейронные сети, математическая статистика, линейная алгебра, Python‑программирование.  
+**Средний балл:** 4.6 / 5.0
+
+---
+
+## Аттестация и курсы
+
+- Курс высшего образования — МТИ (2025, в процессе)
+- Deep Learning Specialization — Coursera (DeepLearning.AI), 2025
+- «Python анализ данных» — Яндекс Практикум, 2025
+- «Python для Data Science» — Stepik, 2024
+- «Git. Базовый курс» — Stepik, 2024
