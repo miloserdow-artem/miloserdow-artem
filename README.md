@@ -1,4 +1,3 @@
-
 # Привет, я Артём Милосердов 👋
 
 **ML / Data Science Junior — удалённая работа**  
@@ -20,39 +19,34 @@ GitHub: [miloserdow-artem](https://github.com/miloserdow-artem) | Telegram: [@mi
 ## Навыки
 
 ### Языки программирования
-- JavaScript
-- Python
-- SQL
+<a href="https://www.javascript.com/" target="_blank"><img src="https://cdn.simpleicons.org/JavaScript/F7DF1E/000000" alt="JavaScript" width="32" height="32" /></a>
+<a href="https://www.python.org/" target="_blank"><img src="https://cdn.simpleicons.org/Python/FFD43B/000000" alt="Python" width="32" height="32" /></a>
+<a href="https://www.sql.org/" target="_blank"><img src="https://cdn.simpleicons.org/SQL/8143AF/FFFFFF" alt="SQL" width="32" height="32" /></a>
 
 ### ML / DL
-- Scikit‑learn
-- PyTorch
-- TensorFlow / Keras
-- Hugging Face Transformers
-- Основы CNN и RNN
+<a href="https://scikit-learn.org/" target="_blank"><img src="https://cdn.simpleicons.org/Scikit-Learn/FDE724/000000" alt="Scikit-learn" width="32" height="32" /></a>
+<a href="https://pytorch.org/" target="_blank"><img src="https://cdn.simpleicons.org/PyTorch/EE4C25/FFFFFF" alt="PyTorch" width="32" height="32" /></a>
+<a href="https://www.tensorflow.org/" target="_blank"><img src="https://cdn.simpleicons.org/TensorFlow/FFCD00/000000" alt="TensorFlow" width="32" height="32" /></a>
+<a href="https://huggingface.co/" target="_blank"><img src="https://cdn.simpleicons.org/HuggingFace/ED6F1F/000000" alt="Hugging Face" width="32" height="32" /></a>
 
 ### Анализ данных
-- Pandas
-- NumPy
-- Matplotlib
-- Seaborn
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://cdn.simpleicons.org/pandas/FDE724/000000" alt="Pandas" width="32" height="32" /></a>
+<a href="https://numpy.org/" target="_blank"><img src="https://cdn.simpleicons.org/NumPy/013246/FFFFFF" alt="NumPy" width="32" height="32" /></a>
+<a href="https://matplotlib.org/" target="_blank"><img src="https://cdn.simpleicons.org/Matplotlib/ED5555/FFFFFF" alt="Matplotlib" width="32" height="32" /></a>
+<a href="https://seaborn.pydata.org/" target="_blank"><img src="https://cdn.simpleicons.org/Seaborn/4C72B0/FFFFFF" alt="Seaborn" width="32" height="32" /></a>
 
 ### Инфраструктура
-- Git
-- GitHub
-- Docker
-- Основы CI/CD
+<a href="https://git-scm.com/" target="_blank"><img src="https://cdn.simpleicons.org/Git/F05032/FFFFFF" alt="Git" width="32" height="32" /></a>
+<a href="https://github.com/" target="_blank"><img src="https://cdn.simpleicons.org/GitHub/181717/FFFFFF" alt="GitHub" width="32" height="32" /></a>
+<a href="https://www.docker.com/" target="_blank"><img src="https://cdn.simpleicons.org/Docker/2496ED/FFFFFF" alt="Docker" width="32" height="32" /></a>
 
 ### API и деплой
-- FastAPI
-- Streamlit
-- Flask
+<a href="https://fastapi.tiangolo.com/" target="_blank"><img src="https://cdn.simpleicons.org/FastAPI/009688/FFFFFF" alt="FastAPI" width="32" height="32" /></a>
+<a href="https://streamlit.io/" target="_blank"><img src="https://cdn.simpleicons.org/Streamlit/FF4B4B/FFFFFF" alt="Streamlit" width="32" height="32" /></a>
+<a href="https://flask.palletsprojects.com/" target="_blank"><img src="https://cdn.simpleicons.org/Flask/000000/FFFFFF" alt="Flask" width="32" height="32" /></a>
 
 ### Soft Skills
-- Самоорганизация
-- Асинхронная коммуникация
-- Работа в команде
-- Технический английский (B1)
+Самоорганизация, асинхронная коммуникация, работа в команде, технический английский (B1)
 
 ---
 
