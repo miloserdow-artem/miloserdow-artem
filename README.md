@@ -24,9 +24,14 @@
 
 ---
 
-<p align="center">
-  <i>🌐 Выберите язык / Select language / Seleccione el idioma:</i>
-</p>
+> [!NOTE]
+> 🌐 **Language Switcher:** <img src="https://flagcdn.com/w40/ru.png" width="20" alt="RU" /> / <img src="https://flagcdn.com/w40/gb.png" width="20" alt="US" /> / <img src="https://flagcdn.com/w40/es.png" width="20" alt="ES" />
+> * <img src="https://flagcdn.com/w40/ru.png" width="20" alt="RU" /> **RU:** Полное описание на русском языке открыто ниже.
+> * <img src="https://flagcdn.com/w40/gb.png" width="20" alt="US" /> **EN:** Scroll down or click the summary below to read the profile in English.
+> * <img src="https://flagcdn.com/w40/es.png" width="20" alt="ES" /> **ES:** Desplázate hacia abajo para leer el perfil en español.
+<br>
+<br>
+<br>
 
 <!-- ======================================================================= -->
 <!-- РУССКАЯ ВЕРСИЯ -->
